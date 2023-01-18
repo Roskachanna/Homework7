@@ -92,7 +92,7 @@ public class Main {
         }
     }
     public static void task8() {
-        System.out.println(" Задача 8");
+        System.out.println(" Задача 8 ");
         int year = 2023;
         int year1 = year - 200;
         int year2 = year + 100;
